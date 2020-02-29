@@ -3,6 +3,7 @@
 A mirror of http://heinrich5991.de/teeworlds/maps/maps/
 
 **WARNING INCOMPLETE**
+
 The wget command does not get files hidden by nginx and thus all maps starting with a . are not in this mirror.
 See http://heinrich5991.de/teeworlds/maps/LISTING for a complete list.
 
